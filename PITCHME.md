@@ -146,7 +146,7 @@ at the front.
 
 ### What it looks like
 
-![Links](images/render/pictures.jpeg)
+![Links](images/render/picture.jpeg)
 
 ---
 
